@@ -305,10 +305,4 @@ The content is based on the following educational and museum references. The app
 [5]: [Victoria and Albert Museum, “The Arts of the Mughal Empire.”](https://www.vam.ac.uk/articles/the-arts-of-the-mughal-empire)
 [6]: [Princeton University Art Museum, “Miniature Paintings from South Asia.”](https://artmuseum.princeton.edu/art/collections/themes/miniature-paintings-south-asia)
 
-## License and educational use
 
-This repository is an educational prototype. Before redistributing generated imagery, third-party fonts, or adapted source material outside the Manus project, review the applicable asset and platform licenses. The historical references remain the property of their respective institutions and authors. The application’s original interface, CSS studies, and documentation should be treated as project materials unless a separate license is added.
-
----
-
-**No GitHub push was performed for this README request.**
