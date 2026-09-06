@@ -1,8 +1,7 @@
 # CO1 Documentation — Digital Timeline of Indian Art History
 
-**Author:** Manus AI  
 **Prototype:** *Kala Chronicle*  
-**Scope:** Interactive web-based timeline with virtual artifact replicas for Course Outcome 1 (10 marks)
+**Scope:** Interactive web-based timeline with virtual artifact replicas
 
 ## Educational intent
 
