@@ -1,4 +1,4 @@
-# Kala Chronicle — Indian Art History Digital Timeline
+# Kala Chronicle - Indian Art History Digital Timeline
 
 > **A museum-grade interactive timeline of Indian art history, designed for Course Outcome 1 (CO1).**
 >
